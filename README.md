@@ -4,7 +4,7 @@ Uses OpenCV for face detection.
 
 # For dependencies installation / running:
 >cd \path\to\Project\
->pip install pipenv
+>sudo pip install pipenv
 
 >pipenv install
 
