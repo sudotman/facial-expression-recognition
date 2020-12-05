@@ -5,7 +5,9 @@ Uses OpenCV for face detection.
 # For dependencies installation / running:
 >cd \path\to\Project\
 >pip install pipenv
+
 >pipenv install
+
 >pipenv run python3 main.py
 
 # To modify the video stream to something other than your webcam
